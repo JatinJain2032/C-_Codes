@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602678307 source:c:\jatin folder\physics prac\calculate the value of pi\main.cpp
+	<iostream>
+	<math.h>
+
