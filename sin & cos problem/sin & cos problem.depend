@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602599258 source:c:\jatin folder\physics prac\sin & cos problem\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

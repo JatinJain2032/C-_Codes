@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602683885 source:c:\jatin folder\physics prac\value of pi\main.cpp
+	<iostream>
+	<iomanip>
+
